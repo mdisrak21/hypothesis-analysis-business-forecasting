@@ -1,0 +1,16 @@
+Metric,Value
+Raw records,1055237
+After exact duplicate removal,1055237
+Positive customer sales records,400916
+Unique customers,4312
+Unique orders,19213
+Total positive-sales revenue,8798233.743999999
+Monthly periods,13
+Forecast model,"SARIMA(1,1,1)x(1,1,1,12)"
+Holdout months,5
+Forecast MAE,401323.0086
+Forecast RMSE,474649.0604765403
+Forecast MAPE (%),71.96209777471223
+ANOVA p-value,9.510092338121796e-65
+Chi-square p-value,3.894916455899898e-05
+A/B-style Welch p-value,0.029443781580485932

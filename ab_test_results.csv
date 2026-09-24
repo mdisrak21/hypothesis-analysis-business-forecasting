@@ -1,0 +1,2 @@
+Test,Group A,Group B,N_A,N_B,Mean_A,Mean_B,Mean_Difference_A_minus_B,t_statistic,df,p_value,CI95_Lower,CI95_Upper,Alpha,Decision
+Welch two-sample t-test (UK vs Non-UK customer monetary value),United Kingdom,Non-UK,3969,343,1859.8755336356767,4129.41035276968,-2269.534819134003,-2.18643653252708,350.8694875660464,0.029443781580485932,-4311.031660670098,-228.03797759790768,0.05,Reject H0

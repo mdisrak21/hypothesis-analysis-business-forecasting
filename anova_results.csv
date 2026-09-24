@@ -1,0 +1,2 @@
+Test,Groups,F_statistic,p_value,Alpha,Eta_squared,Decision
+One-way ANOVA: Monetary by RFM Segment,7,54.20791601635618,9.510092338121796e-65,0.05,0.07024408444089004,Reject H0

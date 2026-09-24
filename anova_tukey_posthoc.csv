@@ -1,0 +1,22 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+At Risk,Champions,5015.076,0.0,3738.6651,6291.487,True
+At Risk,Hibernating,-1285.9348,0.0485,-2567.3368,-4.5327,True
+At Risk,Loyal Customers,-63.2803,1.0,-1503.4773,1376.9166,False
+At Risk,Needs Attention,-868.2097,0.5811,-2330.266,593.8465,False
+At Risk,Potential Loyalists,-737.4799,0.8353,-2366.3619,891.4021,False
+At Risk,Recent Customers,-1023.8905,0.5236,-2668.9573,621.1763,False
+Champions,Hibernating,-6301.0108,0.0,-7498.0957,-5103.926,True
+Champions,Loyal Customers,-5078.3564,0.0,-6444.0754,-3712.6374,True
+Champions,Needs Attention,-5883.2858,0.0,-7272.0368,-4494.5348,True
+Champions,Potential Loyalists,-5752.5559,0.0,-7315.9745,-4189.1374,True
+Champions,Recent Customers,-6038.9666,0.0,-7619.2405,-4458.6927,True
+Hibernating,Loyal Customers,1222.6544,0.1167,-147.7304,2593.0393,False
+Hibernating,Needs Attention,417.725,0.975,-975.6147,1811.0648,False
+Hibernating,Potential Loyalists,548.4549,0.9467,-1019.0412,2115.951,False
+Hibernating,Recent Customers,262.0442,0.999,-1322.2638,1846.3523,False
+Loyal Customers,Needs Attention,-804.9294,0.7198,-2345.5695,735.7106,False
+Loyal Customers,Potential Loyalists,-674.1996,0.9054,-2373.9701,1025.571,False
+Loyal Customers,Recent Customers,-960.6102,0.6483,-2675.8968,754.6764,False
+Needs Attention,Potential Loyalists,130.7299,1.0,-1587.6011,1849.0608,False
+Needs Attention,Recent Customers,-155.6808,1.0,-1889.3616,1578.0,False
+Potential Loyalists,Recent Customers,-286.4106,0.9994,-2162.9227,1590.1014,False

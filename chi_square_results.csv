@@ -1,0 +1,2 @@
+Test,Chi2_statistic,df,p_value,Alpha,Decision,Min_Expected_Count
+Chi-Square independence: Country Group vs RFM Segment,70.71244095442196,30,3.894916455899898e-05,0.05,Reject H0,1.836734693877551

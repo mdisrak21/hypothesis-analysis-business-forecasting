@@ -1,0 +1,4 @@
+Test,Group A,Group B,N_A,N_B,Mean_A,Mean_B,Mean_Difference_A_minus_B,t_statistic,df,p_value,CI95_Lower,CI95_Upper,Alpha,Decision,Groups,F_statistic,Eta_squared,Group_A,Group_B,Chi2_statistic,Min_Expected_Count
+Welch two-sample t-test (UK vs Non-UK customer monetary value),United Kingdom,Non-UK,3969.0,343.0,1859.8755336356767,4129.41035276968,-2269.534819134003,-2.18643653252708,350.8694875660464,0.029443781580485932,-4311.031660670098,-228.03797759790768,0.05,Reject H0,,,,,,,
+One-way ANOVA: Monetary by RFM Segment,,,,,,,,,,9.510092338121796e-65,,,0.05,Reject H0,7.0,54.20791601635618,0.07024408444089004,,,,
+Chi-Square independence: Country Group vs RFM Segment,,,,,,,,,30.0,3.894916455899898e-05,,,0.05,Reject H0,,,,,,70.71244095442196,1.836734693877551
