@@ -91,6 +91,4 @@ Statistical significance does not by itself establish causality. The UK/non-UK c
 **Program:** Progree Data Analytics Internship  
 **Task:** Task 4 — Statistical Inferential Hypothesis Analysis & Predictive Business Forecaster
 
-## Author
 
-**Israk**
